@@ -36,5 +36,5 @@ For example, all of the following will rotate even numbered pages from 1-10 cloc
 ```
 1 3 1-5 7 9 5-10 11 11 11 11
 ```
-In this example, a new file "example - rotated.pdf" will be written to the original file's location with the specified pages rotated.
+In this example, a new file "example - rotated.pdf" will be written to the original pdf's directory with the specified pages rotated.
 Note that this will overwrite any existing file named "example - rotated.pdf" if one already exists at that location.
