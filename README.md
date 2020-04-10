@@ -23,7 +23,7 @@ List or range of pages to rotate (e.g. 3 4 5 or 3-5)
 ```
 Enter a space separated list of pages and/or page ranges that you would like rotated. A page listed once will be rotated clockwise by 90&deg;. A page listed twice will be rotated by 90&deg; twice (180&deg;) and so on.
 
-For example, all of the following will rotate even numbered pages from 1-10 clockwise by 90 deg and odd numbered pages by 180 deg while leaving all pages after 10 oriented the same.
+For example, all of the following will rotate even numbered pages from 1-10 clockwise by 90&deg; and odd numbered pages by 180&deg; while leaving all pages after 10 oriented the same.
 ```
 1 1 2 3 3 4 5 5 6 7 7 8 9 9 10
 ```
