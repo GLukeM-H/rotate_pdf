@@ -2,11 +2,7 @@
 Need to rotate pages in a pdf? Don't have Adobe Acrobat Pro? Here's a small python program to do just that!
 # How to Use
 ### Setup
-You will need [Python](https://www.python.org/) installed. And an additional dependency.
-```
-pip install PyPDF2
-```
-Alternatively, download the library [here](https://pypi.org/project/PyPDF2/).
+You will need [Python](https://www.python.org/) installed. And an additional dependency [PyPDF2](https://pypi.org/project/PyPDF2/).
 ### Run the Program
 ```
 python rotate_pdf.py
