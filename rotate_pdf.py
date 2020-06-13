@@ -1,7 +1,11 @@
 import PyPDF2
+from tkinter import Tk
+from tkinter.filedialog import askopenfilename
 
-
-pdf_path = input("Enter G:\\path\\to\\pdf file.pdf\n")
+Tk().withdraw()
+print("Which pdf?")
+pdf_path = askopenfilename()
+print(pdf_path)
 
 try:
 	pdf_in = open(pdf_path, 'rb')
