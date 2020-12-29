@@ -1,12 +1,17 @@
 # rotate_pdf
 A small python program to rotate pdf pages.
 # How to Use
-### Setup
+### Setup (using Python script)
 You will need [Python](https://www.python.org/) installed with tkinter. And an additional dependency [PyPDF2](https://pypi.org/project/PyPDF2/).
+### Setup (using exe)
+Download rotate_pdf_exe.zip and extract the folder.
 ### Run the Program
+To run the Python script:
 ```
 python rotate_pdf.py
 ```
+Or, double click rotate_pdf.exe after unzipping.
+
 Select the pdf that needs pages rotated.
 You will then be asked which pages you would like rotated.
 ```
